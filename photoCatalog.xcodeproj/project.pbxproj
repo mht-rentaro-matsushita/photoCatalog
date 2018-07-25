@@ -13,6 +13,9 @@
 		CB1835D52108B8570087FABE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB1835D32108B8570087FABE /* Main.storyboard */; };
 		CB1835D72108B8570087FABE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CB1835D62108B8570087FABE /* Assets.xcassets */; };
 		CB1835DA2108B8570087FABE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB1835D82108B8570087FABE /* LaunchScreen.storyboard */; };
+		CB1835F02108CC1C0087FABE /* food1.JPG in Resources */ = {isa = PBXBuildFile; fileRef = CB1835EF2108CC1C0087FABE /* food1.JPG */; };
+		CB1835F22108CC240087FABE /* food2.JPG in Resources */ = {isa = PBXBuildFile; fileRef = CB1835F12108CC240087FABE /* food2.JPG */; };
+		CB1835F42108CC2B0087FABE /* food3.JPG in Resources */ = {isa = PBXBuildFile; fileRef = CB1835F32108CC2B0087FABE /* food3.JPG */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +27,9 @@
 		CB1835D62108B8570087FABE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		CB1835D92108B8570087FABE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CB1835DB2108B8570087FABE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CB1835EF2108CC1C0087FABE /* food1.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = food1.JPG; sourceTree = "<group>"; };
+		CB1835F12108CC240087FABE /* food2.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = food2.JPG; sourceTree = "<group>"; };
+		CB1835F32108CC2B0087FABE /* food3.JPG */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = food3.JPG; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +67,9 @@
 				CB1835D12108B8570087FABE /* DetailViewController.swift */,
 				CB1835D32108B8570087FABE /* Main.storyboard */,
 				CB1835D62108B8570087FABE /* Assets.xcassets */,
+				CB1835EF2108CC1C0087FABE /* food1.JPG */,
+				CB1835F12108CC240087FABE /* food2.JPG */,
+				CB1835F32108CC2B0087FABE /* food3.JPG */,
 				CB1835D82108B8570087FABE /* LaunchScreen.storyboard */,
 				CB1835DB2108B8570087FABE /* Info.plist */,
 			);
@@ -126,8 +135,11 @@
 			buildActionMask = 2147483647;
 			files = (
 				CB1835DA2108B8570087FABE /* LaunchScreen.storyboard in Resources */,
+				CB1835F02108CC1C0087FABE /* food1.JPG in Resources */,
 				CB1835D72108B8570087FABE /* Assets.xcassets in Resources */,
+				CB1835F42108CC2B0087FABE /* food3.JPG in Resources */,
 				CB1835D52108B8570087FABE /* Main.storyboard in Resources */,
+				CB1835F22108CC240087FABE /* food2.JPG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
